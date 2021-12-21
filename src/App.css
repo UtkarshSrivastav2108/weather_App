@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: orange;
+  height: 100vh;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 150px;
+  width: 400px;
+  height: 460px;
+  border: 1px solid #9C9C9C;
+  background-color: white;
+  border-radius: 20px;
+}
+
+@media screen and (max-width:415px) {
+
+  #login .container #login-row #login-column #login-box {
+    margin-top: 90px;
+    width: 400px;
+    height: 460px;
+    border: 1px solid #9C9C9C;
+    background-color: white;
+    border-radius: 20px;
+  }
+}
+
+
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+
+.input-one{
+  border: none;
+width: 280px;
+height: 40px;
+outline: none;
+background-color: orange;
+border-radius: 20px;
+color: white;
+text-align: center;
+  color: white;
+}
+
+
+::placeholder{
+align-items: center;
+text-align: center;
+  color: white;
+}
+
+.icon{
+  color: orange;
+  font-size: 40px;
+  padding-top: 30px;
+  padding-right: 30px;
+}
+
+
+.h3{
+  color: black;
+  font-weight: 700;
+  padding-top: 40px;
+  font-size: 32px;
+
+}
+
+
+.h4{
+  color: black;
+  font-weight: 500;
+  font-size: 28px;
+
+}
+
+.p{
+  font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
